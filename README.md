@@ -53,3 +53,86 @@ Follow these steps to run the project locally or deploy it on your server.
 ```bash
 git clone https://github.com/<your-username>/feedback-app.git
 cd feedback-app
+```
+---
+### 2️⃣ Upload to Server
+- Copy all project files to your hosting directory
+
+- Make sure the server supports PHP
+
+- Import database file (feedback.sql)
+### 3️⃣ Access the Site
+http://localhost/feedback
+
+or your live domain
+
+(ex) https://feedback.mirnesglamocic.com
+
+
+### 🧩 Usage
+
+#### Submit Feedback
+
+Users can fill out the form fields:
+
+- Name
+
+- Email
+
+- Feedback message
+
+After submitting, the data is saved and visible on the Feedback List page.
+
+View Feedback -  automatically displays all past feedback entries.
+
+---
+### 🔧 Customization
+
+You can easily extend this project with:
+
+- Admin dashboard
+
+- Login system
+
+- Pagination for feedback
+
+- Spam protection / reCAPTCHA
+
+- Email notifications
+
+- API endpoints
+---
+### 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+
+2. Create a branch for your change
+
+3. Commit and push
+
+4. Open a Pull Request
+
+Suggestions and feature requests are encouraged.
+
+---
+### 📄 License
+
+This project is free to use and modify.
+
+---
+### 👤 Author
+
+#### **Mirnes Glamočić** 
+
+🌐 https://mirnesglamocic.com
+
+📧 Contact available on the website
+
+---
+
+### ⭐ Acknowledgments
+
+Thank you for checking out this project!
+Feel free to submit suggestions or improvements.
