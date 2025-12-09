@@ -1,13 +1,55 @@
-# Feedback System
+# Feedback App — feedback.mirnesglamocic.com
+
+A simple and lightweight feedback-collection web application built for the personal portfolio of **Mirnes Glamočić**.  
+The app allows visitors to submit feedback and browse previously submitted messages through a clean, minimal interface.
+
+---
+
+## 🚀 Live Demo
+
+👉 **https://feedback.mirnesglamocic.com**
+
 [![Mockup of Feedback application created by Mirnes Glamočić, Web Developer, UI/UX and Web Designer](/feedback-og.jpg)](https://feedback.mirnesglamocic.com)
-Feedback System for website written in _PHP, MySQL and HTML_, which allows users to log username, email and message with automatic date and time of submission.
 
-It also contains PHP validation for all fields, so that empty data cannot be sent, and the name can only contain letters and spaces, since the message content does not allow the entry of special characters.
+---
 
-The navigation contains options for adding a feedback, viewing feedbacks and a short description of the application itself.
+## 📌 About
 
-Easy to setup in one click helps you to save a lot of time.
+This project provides a small but functional feedback system where users can:
 
-To check how it looks, please click preview.
-##
-[PREVIEW](https://feedback.mirnesglamocic.com)
+- Submit their name, email, and feedback message  
+- View all previously submitted feedback  
+- Interact with a modern, responsive UI  
+- Enjoy fast page loading and simple navigation  
+
+It is designed to be easy to host, easy to maintain, and perfect as a small portfolio project.
+
+---
+
+## ✨ Features
+
+- ✔️ Feedback submission form  
+- ✔️ Display list of all past feedback  
+- ✔️ Clean, responsive design  
+- ✔️ Lightweight codebase  
+- ✔️ Simple backend
+---
+
+## 🛠️ Technologies Used
+
+- **HTML / CSS / JavaScript**  
+- **PHP** (for handling backend logic)  
+- **MySQL** 
+- **Apache** 
+
+---
+
+## 📥 Installation
+
+Follow these steps to run the project locally or deploy it on your server.
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/feedback-app.git
+cd feedback-app
